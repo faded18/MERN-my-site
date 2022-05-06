@@ -1,0 +1,87 @@
+.cardA{position: relative;
+    background-color: rgb(232, 240, 240);
+  bottom: 10%;
+    width: 96%;
+    height: 350px;
+    border-radius: 20px;
+    /* margin-top: 15%; */
+    margin-left: 25px;
+    display: flow-root;
+    
+}
+.line{
+    border-radius: 20px;
+    width: 96%;
+    background-color: aliceblue;
+}
+.fa-circle-arrow-left{
+    position: absolute;
+    top: 50%;
+    font-size: 50px;
+ z-index: 1;
+}
+.fa-circle-arrow-right{
+    position: absolute;
+    top: 50%;
+    right:0px;
+    font-size: 50px;
+ z-index: 1;
+}
+.imgSlide{
+    position: absolute;
+top: 30px;
+left: 90px;
+height: 300px;
+   width: 500px;
+    max-height: 100%;
+    object-fit: cover;
+    transition: all 0.2s li
+}
+.imgSlide:hover {
+    transform: scale(1.1);
+}
+
+
+.Hire{
+    display: flex;
+    background-color: blue;
+    height: 350px;
+}
+.Tslide{
+text-align: center;
+font-family: "Sofia", sans-serif;
+}
+.Dslide{
+font-weight: 100;
+font-stretch: expanded;
+}
+ .Aes{
+    box-shadow: 5px 10px 8px 10px #888888;
+    width: 400px;
+    position: absolute;
+    right: 90px;
+    top: 50px;
+    margin-top: 20px;
+    padding: 10px;
+} 
+.Aer{
+    /* margin-top: 30px; */
+    position: absolute;
+    right: 20%;
+    
+    height: 100px;
+} 
+.Q{
+    margin-top: 100px;
+    display: flow-root;
+}
+.Outer{
+    box-shadow: 5px 10px 8px 10px #888888;
+    margin-left: 50%;
+    background-color: rgb(233, 239, 239);
+    margin-top: 20px;
+    height: 300px;
+    display: flow-root;
+    width: 40%;
+    border-radius: 20px;
+}

@@ -1,0 +1,15 @@
+h1 {
+    font-size: 70px;
+    line-height: 90px;
+}
+h1, h2 {
+    font-weight: 400;
+    font-family: DauphinPlain;
+}
+h4 {
+    margin: 10px 10px 5px 10px;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    font-style: italic;
+}

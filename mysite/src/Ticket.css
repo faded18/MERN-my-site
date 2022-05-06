@@ -1,0 +1,218 @@
+/* .tik-container{
+    background-color: #242222;
+width: 100%;
+height: 150%;
+} */
+.tik{
+   border-radius: 20px;
+width: 185vh;
+padding-bottom: 50px;
+position: relative;
+top:50px;
+background-color: aliceblue;
+margin-left: 30px;
+}
+.div-inner{
+background-color: #f3e1e1;
+position:relative;
+top: -40px;
+left:10%;
+border-radius: 20px;
+width: 140vh;
+height: 120px;
+display: flex;
+}
+.fonts{
+    flex-direction:row;
+    size: 100px;
+}
+.div-icon1{
+   width: 30px;
+   height: 190px;
+
+}
+.fonts{
+    width:150px;
+    height: 100%;
+
+}
+.fonts:hover{
+    background-color: rgb(201, 194, 188);
+    /* border-radius:20px 0px 0px 0/ */
+}
+.fa-car{
+    margin-top: 30px;
+    font-size:50px;
+margin-left: 40px;
+}
+.fonts-1{
+    width:150px;
+    height: 100%;
+}
+.fonts-1:hover{
+    background-color: rgb(201, 194, 188);
+    border-radius:20px 0px 0px 0px ;
+}
+.fa-plane{
+    margin-top: 30px;
+    font-size:50px;
+margin-left: 40px;
+}
+.fonts-3{
+    width:150px;
+    height: 100%;
+}
+.fonts-3:hover{
+    background-color: rgb(201, 194, 188);
+    /* border-radius:20px 0px 0px 0px ; */
+}
+.fa-hotel{
+    margin-top: 30px;
+    font-size:50px;
+margin-left: 40px;
+}
+.fonts-5{
+    width:150px;
+    height: 100%;
+}
+.fonts-5:hover{
+    background-color: rgb(201, 194, 188);
+    /* border-radius:20px 0px 0px 0px ; */
+}
+.fa-person-hiking{
+    margin-top: 30px;
+    font-size:50px;
+margin-left: 40px;
+}
+.fonts-4{
+    width:150px;
+    height: 100%;
+}
+.fonts-4:hover{
+    background-color: rgb(201, 194, 188);
+    /* border-radius:20px 0px 0px 0px ; */
+}
+.fa-burger{
+    margin-top: 30px;
+    font-size:50px;
+margin-left: 40px;
+}
+.fonts-6{
+    width:160px;
+    height: 100%;
+
+}
+.fonts-6:hover{
+    background-color: rgb(201, 194, 188);
+    border-radius:0px 20px 20px 0px ;
+}
+.fa-passport{
+    margin-top: 30px;
+    font-size:50px;
+margin-left: 40px;
+}
+#circle{
+margin-left: 20px;
+
+
+}
+.ABD{
+    display: flex;
+ padding-top: 10px;
+ /* justify-content:space-around; */
+ margin-top: 10px;
+ box-sizing: border-box;
+ /* margin-left: ; */
+}
+.Card-1{
+    /* height: 100px; */
+ margin-right: 0px;
+ box-shadow: 10px 10px 10px rgb(224, 212, 212);
+ background-color:rgb(237, 207, 207);
+    border-style: solid;
+    border-color:whitesmoke;
+    border-radius: 20px;
+    width: 300px;
+    margin-left: 0px;
+ padding-left: 10px;
+ transition: all;
+ /* transition-duration: .5s; */
+transition-timing-function: ease-in-out;}
+.Card-1:hover{ background-color:rgb(245, 240, 232);
+    transform: scale(1.019);
+}
+.Card-3:hover{
+    background-color:rgb(245, 240, 232);
+    transform: scale(1.019);
+}
+.Card-4:hover{
+    background-color:rgb(245, 240, 232);
+    transform: scale(1.019);
+}
+.Card-2:hover{
+    background-color:rgb(245, 240, 232);
+    transform: scale(1.019);
+}
+
+.Card-2{
+ height: 100px;
+ margin-right: 0px;
+ box-shadow: 10px 10px 10px rgb(224, 212, 212);
+ background-color:rgb(237, 207, 207);
+    border-style: solid;
+    border-color:whitesmoke;
+    border-radius: 20px;
+    width: 300px;
+    margin-left: 0px;
+ padding-left: 10px;
+ transition: all;
+ /* transition-duration: 1s; */
+transition-timing-function: ease-in-out;
+ /* transition-timing-function: ; */
+}
+/* .Card-2:hover{
+    /* background-color: #242222; */
+    /* width: 305px;
+    height: 105px; */
+/* } */ *
+.Card-3{
+    margin-right: 0px;
+    box-shadow: 10px 10px 10px rgb(224, 212, 212);
+    margin-left: 0px;
+    height: 100px;
+    background-color:rgb(237, 207, 207);
+    border-style: solid;
+    border-color:whitesmoke;
+    border-radius: 20px;
+    width: 300px;
+    padding-left: 10px;
+    transition: all;
+ /* transition-duration: 1s; */
+transition-timing-function: ease-in-out;
+}
+.Card-4{
+    height: 100px;
+    background-color:rgb(237, 207, 207);
+    border-style: solid;
+    border-color:rgb(253, 251, 251);
+    border-radius: 20px;
+    width: 300px;
+    padding-left: 10px;
+    transition: all;
+ /* transition-duration: 1s; */
+transition-timing-function: ease-in-out;
+    box-shadow: 10px rgb(224, 212, 212);
+}
+.btun{
+ position: absolute;
+ right: 10px;
+background-color: black;
+color: white;}
+.Slider{
+    margin-top: 200px;
+}
+.end{
+    height: 1200px;
+    background-color: #242222;
+
+}

@@ -1,0 +1,60 @@
+.Footer-con{
+
+    background-color: black;
+width: 100%;
+height: 80vh;
+/* margin-bottom: 10px; */
+}
+.abt > h1{
+/* background-color: aliceblue; */
+color:azure;
+font: sans-serif;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.abt > h2{
+    margin-top: 10px;
+    text-align: center;
+    color:azure;
+font: sans-serif;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.abt{
+    padding-top: 100px;
+}
+.div-btns{
+padding-top: 20px;
+text-align: center;
+margin-bottom: 0px;
+}
+#inpt{
+   margin-bottom: 10px;
+font-size: larger;
+height: 50px;
+width: 250px;
+}
+.div-inptt{
+    margin-top: 0%;
+}
+.inpt-btn{
+    margin-top:0px;
+   width: 250px;
+   height: 50px;
+position: relative;
+bottom: 20px;
+left: 40%;
+color: white;
+font-size: larger;
+background-color: black;
+border-radius: 2px;
+margin-top: 20px;
+border-color: aliceblue;
+}
+.div-contact{
+    margin: 30px;
+  display: flex;
+  flex-direction: row;
+padding: 5px; 
+  color: aliceblue;
+    justify-content:center;
+    gap: 40px;
+}
