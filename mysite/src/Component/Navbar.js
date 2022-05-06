@@ -50,16 +50,16 @@ window.addEventListener('resize',showButton)
               <Link to='/login' className="nav-links" onClick={closemenu}>Login</Link>
           </li>
           <li className="nav-item">
-              <Link to='/case' className="nav-links" onClick={closemenu}>Help</Link>
+              <Link to='/help' className="nav-links" onClick={closemenu}>Help</Link>
           </li>
 
 
 
-
-          {/* <li className="nav-item">
-              <Link to='/signup' className="nav-links-mobile" onClick={closemenu}>SignUp</Link>
-          </li> */}
-         
+{/* 
+          <li className="nav-item">
+              <Link to='/help' className="nav-links-mobile" onClick={closemenu}>SignUp</Link>
+          </li>
+          */}
 
 
         </ul>

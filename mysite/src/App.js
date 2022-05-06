@@ -9,6 +9,7 @@ import { Footer } from './Component/Footer';
 import { Home } from './Component/Home';
 import { Signup } from './Component/Signup';
 import Login from './Component/Login';
+import { Help } from './Component/Help';
 
 function App() {
   return (
@@ -23,7 +24,7 @@ function App() {
     <Route exact path='/tickets' element={<Ticket/>}/>
     <Route exact path='/signup' element={<Signup/>}/>
     <Route path='/login' element={<Login/>}/>
-
+<Route path='/help' element={<Help/>}/>
 
 
 
